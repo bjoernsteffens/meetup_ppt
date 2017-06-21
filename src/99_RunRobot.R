@@ -37,4 +37,4 @@ paste("The process completed in ",
 
 # -----------------------------------------------------------------------------
 # --- As good citizens we should cleanup memory and not leave a mess behind
-rm(list=ls())
+#rm(list=ls())

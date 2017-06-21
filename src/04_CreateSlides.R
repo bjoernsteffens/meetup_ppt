@@ -41,25 +41,25 @@ pot1 = pot(paste(trimws(format(df_ProductDataXtab[1, 14], digits = 3, justify = 
                  "-", 
                  df_ProductDataXtab[1, 1], 
                  sep = " "),
-           textProperties( font.size = 14, font.family = "Calibri Light" ))
+           textProperties( font.size = 18, font.family = "Calibri Light" ))
 
 pot2 = pot(paste(trimws(format(df_ProductDataXtab[2, 14], digits = 3, justify = "left", big.mark = ",")), 
                  "-", 
                  df_ProductDataXtab[2, 1], 
                  sep = " "),
-           textProperties( font.size = 14, font.family = "Calibri Light" ))
+           textProperties( font.size = 18, font.family = "Calibri Light" ))
 
 pot3 = pot(paste(trimws(format(df_ProductDataXtab[3, 14], digits = 3, justify = "left", big.mark = ",")), 
                  "-", 
                  df_ProductDataXtab[3, 1], 
                  sep = " "),
-           textProperties( font.size = 14, font.family = "Calibri Light" ))
+           textProperties( font.size = 18, font.family = "Calibri Light" ))
 
 pot4 = pot(paste(trimws(format(df_ProductDataXtab[4, 14], digits = 3, justify = "left", big.mark = ",")), 
                  "-", 
                  df_ProductDataXtab[4, 1], 
                  sep = " "),
-           textProperties( font.size = 14, font.family = "Calibri Light" ))
+           textProperties( font.size = 18, font.family = "Calibri Light" ))
 
 pot5 = pot(paste(trimws(format(df_ProductDataXtab[5, 14], digits = 3, justify = "left", big.mark = ",")), 
                  "-", 
